@@ -20,3 +20,7 @@ Entrega un projecte Java/Maven amb:
 - Els diagràmes de classes del codi anterior
 
 Les explicacions han d'estar en format [**Markdown**](https://ca.wikipedia.org/wiki/Markdown) i extensió **.md**
+
+## Instruccions
+
+Fer el projecte en diferents branques i dividirlo equitativàment
