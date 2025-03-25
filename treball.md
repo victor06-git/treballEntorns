@@ -24,3 +24,7 @@ Les explicacions han d'estar en format [**Markdown**](https://ca.wikipedia.org/w
 ## Instruccions
 
 Fer el projecte en diferents branques i dividirlo equitativàment
+
+1. Funció de test + **explicació**
+
+2. Documentació **JavaDoc** en **.html** (mètodes, )
