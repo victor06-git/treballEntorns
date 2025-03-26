@@ -1,6 +1,6 @@
 <div style="display: flex; width: 100%;">
     <div style="flex: 1; padding: 0px;">
-        <p>© Victor Prieto, Victor Asensio, Cristopher Carrillo</p>
+        <p>© Victor Prieto, Victor Asensio, Christopher Carrillo</p>
     </div>
 </div>
 <br/>
@@ -34,4 +34,4 @@ Fer el projecte en diferents branques i dividirlo equitativàment
 
 1. Funció de test + **explicació**
 
-2. Documentació **JavaDoc** en **.html** (mètodes, )
+2. Documentació **JavaDoc** en **.html** (mètodes, classes, etc)
