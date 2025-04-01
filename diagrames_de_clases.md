@@ -8,15 +8,19 @@ El diagrama de classes és el bloc principal del modelatge orientat a objectes. 
 
 ## Components d'un diagrama de classes
 
+![Tipos](treballEntorns/data/classes.png)
+
 ### **Classes**
 
 #### **Tipus de classes especials**
 
-- **Classe associació** :
+- **Classe associació** : Una classe associació representa una relació entre dues o més classes. Indica que les instàncies d'una classe estan relacionades amb les instàncies d'una altra classe. Aquesta relació pot ser de diversos tipus, com ara un a un, un a molts, o molts a molts.
 
-- **Classe interfície** :
+- **Classe interfície** : 
 
 #### **Atributs**
+
+- Els atributs són les propietats o característiques d'una classe. Són variables que emmagatzemen l'estat d'un objecte. Per exemple, en una classe "Cotxe", els atributs podrien ser "color", "marca" i "model".
 
 #### **Mètodes**
 
@@ -98,6 +102,8 @@ Per especificar les visibilitats de la part d'una classe aquestes són les anota
 - **#** --> **Protegida** : Permet que només accedeixi a l'atribut o mètode l'objecte de la mateixa classe i algun objecte d'una classe que hereti a partir d'aquesta.
 - **/** --> **Derivada** (Es pot combinar amb les altres)
 - **~** --> **Paquet** : Les classes es poden organitzar en paquets. Això s'acostuma a utilitzar quan tenim un conjunt de classes relacionades entre elles.
+
+![Visibilitat](/treballEntorns/data/public.png)
 
 ## Exemples de diagrames de classes
 
