@@ -109,6 +109,8 @@ Per especificar les visibilitats de la part d'una classe aquestes són les anota
 
 A continuació, es mostren alguns exemples de diagrames de classes per il·lustrar els conceptes explicats anteriorment:
 
+![Exemples](/treballEntorns/data/exemple_diagrama.png)
+
 ### Exemple 1: Diagrama senzill amb associacions
 
 Aquest diagrama mostra dues classes amb una associació bidireccional.
@@ -149,3 +151,5 @@ Aquest diagrama mostra una classe base, una classe derivada i una interfície im
 ```
 
 Amb aquests exemples, es pot visualitzar com es representen les diferents relacions i components en un diagrama de classes UML.
+
+![Exemples2](/treballEntorns/data/exemple_2.png)
