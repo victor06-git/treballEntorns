@@ -12,7 +12,7 @@
 
 Un cop executat el comandament per generar la documentació (`javadoc`), es crea una carpeta `docs/` dins del projecte amb diversos fitxers HTML.
 
-### 📁 Passos per obrir la documentació:
+### Passos per obrir la documentació:
 
 1. Obre l’explorador de fitxers del teu sistema operatiu.
 2. Navega fins a la ruta del projecte:  
@@ -22,14 +22,14 @@ Un cop executat el comandament per generar la documentació (`javadoc`), es crea
    - **Totes les classes documentades** (`All Classes`)
    - La documentació específica de la classe `Calculator`, a través del paquet `com.treball_entorns`.
 
-### 🔗 Accés directe a la classe
+### Accés directe a la classe
 
 També pots obrir directament aquest fitxer per veure la documentació de la classe `Calculator`:
    ```bash
    docs/com/treball_entorns/Calculator.html
    ```
 
-### ℹ️ Què inclou la documentació de la classe `Calculator`?
+### Què inclou la documentació de la classe `Calculator`?
 
 La documentació HTML generada mostra:
 
