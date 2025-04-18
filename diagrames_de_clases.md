@@ -113,7 +113,7 @@ A continuació, es mostren alguns exemples de diagrames de classes per il·lustr
 
 ### Exemple 1: Diagrama senzill amb associacions
 
-Aquest diagrama mostra dues classes amb una associació bidireccional.
+Aquest diagrama mostra dues classe amb una associació bidireccional.
 
 ```
 +----------------+       +----------------+
