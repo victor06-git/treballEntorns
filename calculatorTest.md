@@ -72,4 +72,5 @@ public int calculate(int num1, int num2, String signe) {
     }
 }
 ```
+
 ![Compilació Amb Errors](treballEntorns/data/compile_error.png)
