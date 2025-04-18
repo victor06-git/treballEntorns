@@ -1,11 +1,8 @@
-<div style="display: flex; width: 100%;">
-    <div style="flex: 1; padding: 0px;">
-        <p>© Victor Prieto, Victor Asensio, Christopher Carrillo</p>
-    </div>
-</div>
-<br/>
+
 
 # Treball d'entorns
+
+© Victor Prieto, Victor Asensio, Christopher Carrillo
 
 ## Descripció
 

@@ -1,5 +1,9 @@
 # Documentació del Test de la Classe Calculator
 
+© Victor Prieto, Victor Asensio, Christopher Carrillo
+
+## Vista General
+
 Aquest document proporciona una visió general del test unitari implementat per a la classe `Calculator`, que realitza operacions aritmètiques bàsiques. El test està escrit en Java i utilitza el framework JUnit 5 per assegurar la seva funcionalitat.
 
 ## Descripció de la Classe Calculator
@@ -45,13 +49,13 @@ La classe `CalculatorTest` conté diversos tests que verifiquen el comportament 
 
 ## Situacions de Compilació
 
-### Compilació Sense Errors
+###  <p style="color: #66ff66;">Compilació Sense Errors</p>
 
 En aquesta situació, el test es compila i s'executa correctament, mostrant que tot funciona com s'esperava:
 
 ![Compilació Sense Errors](treballEntorns/data/compile_ok.png)
 
-### Compilació Amb Errors
+###  <p style="color: #ff6666;">Compilació Amb Errors </p>
 
 Si es modifica el codi de la següent manera (em cambiat en el case, el signe de "+" per el de "-"), es produirà un error de compilació:
 

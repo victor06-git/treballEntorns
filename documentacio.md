@@ -1,5 +1,9 @@
 
-## Generar la documentació HTML
+# Generar documentació en HTML
+
+© Victor Prieto, Victor Asensio, Christopher Carrillo
+
+## Primers passos
 
 1. Obre una terminal i situa’t a la carpeta on tens el fitxer `Calculator.java`.
 
