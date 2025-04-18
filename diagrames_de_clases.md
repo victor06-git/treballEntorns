@@ -111,45 +111,28 @@ A continuació, es mostren alguns exemples de diagrames de classes per il·lustr
 
 ![Exemples](/treballEntorns/data/exemple_diagrama.png)
 
+Amb aquests exemples, es pot visualitzar com es representen les diferents relacions i components en un diagrama de classes UML.
+
+![Exemples2](/treballEntorns/data/exemple_2.png)
+
 ### Exemple 1: Diagrama senzill amb associacions
 
-Aquest diagrama mostra dues classe amb una associació bidireccional.
+Aquest diagrama mostra dues classes amb una associació bidireccional.
 
-```
-+----------------+       +----------------+
-|    Classe A    |<----->|    Classe B    |
-+----------------+       +----------------+
-```
+![Exemple1](/treballEntorns/data/exemple1.png)
 
 ### Exemple 2: Diagrama amb composició i agregació
 
 Aquest diagrama inclou una relació de composició i una d'agregació.
 
-```
-+----------------+<>-----+----------------+
-| Classe Conten. |       | Classe Compos. |
-+----------------+       +----------------+
-    |
-    |<>-------+-------------------+
-    |         | Classe Agregació  |
-    +---------+-------------------+
-```
+![Exemple2](/treballEntorns/data/exemple2.png)
 
 ### Exemple 3: Diagrama amb herència i interfícies
 
 Aquest diagrama mostra una classe base, una classe derivada i una interfície implementada.
 
-```
-+----------------+       +----------------+
-|   Interfície   |<.....>| Classe Deriv.  |
-+----------------+       +----------------+
-      ^
-      |
-+----------------+
-|   Classe Base  |
-+----------------+
-```
+![Exemple3](/treballEntorns/data/exemple3.png)
 
-Amb aquests exemples, es pot visualitzar com es representen les diferents relacions i components en un diagrama de classes UML.
+Aquest és l'exemple del diagrama de classes de les classes del codi: Main, Calculator i CalculatorTest.
 
-![Exemples2](/treballEntorns/data/exemple_2.png)
+![Diagrama](/treballEntorns/data/classe_projecte.png)
