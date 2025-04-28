@@ -14,17 +14,21 @@ El diagrama de classes és el bloc principal del modelatge orientat a objectes. 
 
 #### **Tipus de classes especials**
 
-- **Classe associació** : Una classe associació representa una relació entre dues o més classes. Indica que les instàncies d'una classe estan relacionades amb les instàncies d'una altra classe. Aquesta relació pot ser de diversos tipus, com ara un a un, un a molts, o molts a molts.
+- **Classe associació** : Una classe associació representa una relació entre dues o més classes. Indica que les instàncies d'una classe estan relacionades amb les instàncies d'una altra classe. Aquesta relació pot ser de diversos tipus, com ara un a un, un a molts, o molts a molts. Per exemple, una classe "Estudiant" pot estar associada a una classe "Curs", on un estudiant pot estar inscrit en molts cursos i un curs pot tenir molts estudiants.
 
-- **Classe interfície** : 
+- **Classe interfície** : Una classe interfície defineix un contracte que les classes que la implementen han de seguir. No conté implementacions de mètodes, només les seves signatures. Això permet que diferents classes puguin ser tractades de manera uniforme si implementen la mateixa interfície. Per exemple, una interfície "Vehicle" podria definir mètodes com "moure" i "aturar", que haurien de ser implementats per classes com "Cotxe" i "Bicicleta".
 
 #### **Atributs**
 
-- Els atributs són les propietats o característiques d'una classe. Són variables que emmagatzemen l'estat d'un objecte. Per exemple, en una classe "Cotxe", els atributs podrien ser "color", "marca" i "model".
+- Els atributs són les propietats o característiques d'una classe. Són variables que emmagatzemen l'estat d'un objecte. Per exemple, en una classe "Cotxe", els atributs podrien ser "color", "marca" i "model". Els atributs poden ser de diferents tipus, com ara enters, cadenes de text, booleans, etc. A més, poden tenir modificadors d'accés (públics, privats, protegits) que determinen la seva visibilitat.
 
 #### **Mètodes**
 
+- Els mètodes són funcions definides dins d'una classe que defineixen el comportament dels objectes d'aquesta classe. Els mètodes poden manipular els atributs de la classe i realitzar operacions. Per exemple, en una classe "Cotxe", podríem tenir mètodes com "accelerar", "frenar" i "canviarColor". Els mètodes poden acceptar paràmetres i retornar valors.
+
 #### **Relacions**
+
+- Les relacions entre classes són fonamentals en la programació orientada a objectes.  Algunes de les relacions més comunes són: **Herència**, **Composició**, **Agregació**, **Associació**.
 
 ## Tipus de relacions
 
